@@ -1,0 +1,9 @@
+var ALIASES = {};
+ALIASES["corail"] = {};
+ALIASES["either"] = {};
+ALIASES["itertools"] = {};
+ALIASES["matrixmultiply"] = {};
+ALIASES["ndarray"] = {};
+ALIASES["num_complex"] = {};
+ALIASES["num_traits"] = {};
+ALIASES["rawpointer"] = {};

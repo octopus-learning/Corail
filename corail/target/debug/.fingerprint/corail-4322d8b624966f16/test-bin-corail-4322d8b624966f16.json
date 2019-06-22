@@ -1,0 +1,1 @@
+{"rustc":15213319881204273412,"features":"[]","target":18201345556406421505,"profile":3761167033344078338,"path":1036222786711178230,"deps":[["ndarray v0.12.1","ndarray",9024581500934883556]],"local":[{"MtimeBased":[[1553593501,407793000],".fingerprint/corail-4322d8b624966f16/dep-test-bin-corail-4322d8b624966f16"]}],"rustflags":[],"edition":"Edition2018"}
